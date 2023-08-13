@@ -1,7 +1,5 @@
 # weather
 
 my implemention for the IOS weather App using Flutter!
-<img
-  src="C:\Users\nemermz\Pictures\topcloudy.png"
-  title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+
+![topcloudy](https://github.com/senpaicode/IOS-WeatherApp/assets/109923656/f97023fe-47bd-47ed-a376-638c15e64f27)
